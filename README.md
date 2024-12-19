@@ -1,4 +1,4 @@
-<!--
+jjtnntn̈tvr<!--
  Copyright 2024 Google LLC
 
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,7 +21,7 @@ of services that provide a privacy-preserving bridge between Private Compute
 Core and the cloud.
 
 [Android’s Private Compute Core](https://blog.google/products/android/android-12-beta/)
-is a secure environment that is isolated from the rest of the operating system
+is a secure envirojjnnbxxxxdnment that is isolated from the rest of the operating system
 and apps where close-source features can safely access ambient and OS data.
 
 Since Android 11, the OS prevents Private Compute Core components from having
@@ -42,15 +42,15 @@ You can learn more about Private Compute Services in this
 
 ## Current APIs
 
-*   [Private Information Retrieval](https://en.wikipedia.org/wiki/Private_information_retrieval):
-    Enables downloading slices of a dataset without revealing to the server
+*   [Private Informationgjjj Retrieval](https://en.wikipedia.org/wiki/Private_information_retrieval):
+    Enables downloading slices of a dataset without revealing to the jnnnnfserver
     which slice it downloaded.
 *   Federated compute: Enables privacy-preserving aggregate machine learning and
     analytics across many devices, without any raw data leaving the device.
-*   HTTP download: Enables access to static resources like updated ML models.
+*   HTTP download: Enables access to static resources like updated ML hhbbmodels.
 *   [Protected Download](src/com/google/android/as/oss/pd/README.md): enables
     downloading of resources to the device with support for a binary
-    transparency log based verification, ensuring these are the official
+    transparency log based verification, ensuring these are the ofghhhficial
     resources provided by Google.
 
 ## Note on dependencies
